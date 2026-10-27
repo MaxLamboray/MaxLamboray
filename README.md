@@ -1,8 +1,8 @@
-# Hi, I'm Max-Othello Lamboray 👋
+# Hi, I'm Max-Othello Lamboray
 
 🎓 **Business Information Technology Graduate**  
 📍 Based in Arlon, Belgium  
-💻 **Junior Software Developer** | Open to opportunities in Luxembourg
+💻 **Junior Software Developer** | Open to opportunities in Luxembourg, Belgium
 
 ### About Me
 

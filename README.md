@@ -22,9 +22,9 @@ I'm looking for an opportunity to contribute to real-world projects, learn from 
 
 ### Featured Project
 
-#### CCGB-ASBL — Club Management Web Application
+#### CCGB-ASBL - Club Management Web Application
 
-**Academic team project | November 2025 – January 2026**
+**Academic team project | November 2025 - January 2026**
 
 A collaborative full-stack web application designed to help manage collectors' clubs, their members, collections and related activities.
 

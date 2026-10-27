@@ -26,8 +26,7 @@ I'm looking for an opportunity to contribute to real-world projects, learn from 
 
 #### 🏠 LocaHome - Rental Property Management Web Application
 
-**Final-Year Graduation Project (TFE) | 2026**  
-**Status: Work in Progress**
+**Final-Year Graduation Project (TFE) | 2026**
 
 LocaHome is a personal full-stack web application designed to simplify rental property management.
 
@@ -44,8 +43,6 @@ The project was successfully presented and validated as part of my degree. I am 
 - Implemented database models, relationships and migrations using **Entity Framework Core**.
 - Integrated authentication and user management using **ASP.NET Core Identity**.
 - Worked on administrative features, notifications and data protection requirements.
-
-*LocaHome is still under development. Some features are incomplete or require further testing and refinement.*
 
 ---
 
